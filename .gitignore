@@ -145,3 +145,6 @@ Thumbs.db
 
 # config file
 config.py
+
+# json file
+/renttherunway_final_data.json
